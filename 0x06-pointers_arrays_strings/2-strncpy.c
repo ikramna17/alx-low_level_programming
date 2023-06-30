@@ -20,4 +20,4 @@ for (; byteCount < n; byteCount++)
 dest[byteCount] = '\0';
 
 return (dest);
-
+}
