@@ -1,1 +1,3 @@
-VimCrypt~01!)ª#'B	#N1æçÚ	8Ÿ_ÁK[ÇãCîHWÏ}CÃäh/—e‰¯ı°<I®ò%3-O(¦¢~Óí"é'.{&á3NeK–Ğ{¥¶Â×,Ü>­º‰Ö1R§áüÂWäŸ¯jA‡\Îùø¥\%K‰üA›7v¼>±˜×w–0·EÍ-ı
+#!/bin/bash
+gcc *.c -c -fPIC
+gcc *.o -shared -o liball.so
